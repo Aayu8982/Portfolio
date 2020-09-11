@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name": "Aayush Sharma",
+    "occupation": "MERN Stack Developer",
+    "description": "I've Completed MCA From Banaras Hindu University(Varanasi), I'm Looking for Job Opportunities in Product-based Organization",
+    "image": "aayu8982.jpg",
+    "bio": "My name is Aayush Sharma, I'm a MERN Stack Developer. Currently I'm looking for a job. ",
+    "contactmessage": "Get in touch with me to receive further details, Hire me or anything else.",
+    "email": "aayu8982@gmail.com",
+    "phone": "+91-7415863965",
+    "address": {
+      "street": "A-1305, Brigade Metropolise, Mahadevpura",
+      "city": "Bengaluru",
+      "state": "Karnataka(India)",
+      "zip": "560048"
+    },
+    "website": "http://www.aayu8982.github.io",
+    "resumedownload": "https://drive.google.com/file/d/1EhZlkSVZVhegpFxUPTKU2Y3FT1vkVJmZ/view",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/aayush.sharma.12532/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aayush-sharma-37689797/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/aayu8982/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/Aayu8982",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are my skills ",
+    "education": [
+      {
+        "school": "Banaras Hindu University, Varanasi",
+        "degree": "Master of Computer Application",
+        "graduated": "June 2019",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Govt. Nirbhay Singh Patel College, Indore",
+        "degree": "Bachelor of Computer Science",
+        "graduated": "June 2016",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Govt. School For Excellence, Ratlam",
+        "degree": "Higher Secondary",
+        "graduated": "May 2013",
+        "description": "Secured 76.6% in Madhya Pradesh Board of Secondary Education."
+      },
+      {
+          "school": "Govt. School For Excellence, Ratlam",
+          "degree": "High School",
+          "graduated": "May 2011",
+          "description": "Secured 74.6% in Madhya Pradesh Board of Secondary Education."
+      }
+
+    ],
+    "work": [
+      {
+        "company": "Codeasylums- Bootcamp",
+        "title": "Trainee",
+        "years": "January 2020 - March 2020",
+        "description": "Working on building projects using HTML, CSS, Javascript, ReactJS, NodeJs, MongoDB, GIT, Linux and AWS Hosting."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C language",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "72%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "65%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "65%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+      {
+        "name": "MySQL",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      },
+      {
+        "name": "CSS3",
+        "level": "60%"
+      },
+      {
+        "name": "GIT",
+        "level": "65%"
+      },
+      {
+        "name": "Linux",
+        "level": "65%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.png",
+        "url": "https://"
+      },
+      {
+        "title": "Instagram Reels Clone",
+        "category": "Instagram Reels clone bulid with ReactJS and Firebase",
+        "image": "instagram-reels.png",
+        "url": "https://instagram-reels-clone-c899e.web.app/"
+      },
+      {
+        "title": "Story-Book",
+        "category": "Story-Book built with NodeJS,ExpressJS,MongoDB",
+        "image": "story-book.png",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have worked wit Aayush on a Full Stack Development Project, where he did the BackEnd Development. He is hardworking, honest and sincere person to work with. ",
+        "user": "Amit Yadav ( Business Problem Solver (Product & Strategy) | Nopaperforms | Squad | Naukri.com)"
+      }   
+    ]
+  }
+}
